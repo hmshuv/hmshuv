@@ -16,8 +16,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/himanshu-gupta-105699248/](https://www.linkedin.com/in/himanshu-gupta-105699248/)
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+(https://himanshu09.vercel.app/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
