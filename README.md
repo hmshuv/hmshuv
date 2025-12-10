@@ -37,5 +37,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmshuv&show_icons=true&locale=en&layout=compact" alt="hmshuv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmshuv&show_icons=true&locale=en" alt="hmshuv" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmshuv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hmshuv&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag3003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hmshuv&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmshuv&" alt="hmshuv" /></p>
