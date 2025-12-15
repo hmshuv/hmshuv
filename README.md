@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | Full-Stack Developer | AI/ML Engineer | DevOps & System Design Enthusiast</h3>
 
 <p align="center">
-  <a href="https://himanshu09.vercel.app/blog">
+  <a href="https://himanshu09.vercel.app/">
     <img src="https://img.shields.io/badge/Personal%20Website-Visit-blue?style=for-the-badge&logo=firefox" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/himanshu-gupta-105699248/">
