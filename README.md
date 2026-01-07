@@ -1,3 +1,5 @@
+![Adobe Express - 2026-01-08 01-46-01](https://github.com/user-attachments/assets/e8e2f419-4ac0-4c74-8210-6c42b524a194)
+
 <h1 align="center">Hi there, I'm Himanshu Gupta! 👋</h1>
 <h3 align="center">🚀 Software Engineer | Full-Stack Developer | AI/ML Engineer | DevOps & System Design Enthusiast</h3>
 
